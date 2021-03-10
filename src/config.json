@@ -1,0 +1,9 @@
+{
+    "show_currencies": [
+        "EUR",
+        "GBP",
+        "NOK",
+        "USD",
+        "CHF"
+    ]
+}

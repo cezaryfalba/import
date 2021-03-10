@@ -1,0 +1,30 @@
+.currencies {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #ddd;
+    border-radius: .25rem;
+}
+
+.currencies__header {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: .5rem;
+}
+
+.currencies__list {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.currencies__list-item {
+    padding: .5rem 1rem;
+    margin: .5rem;
+    background-color: #fff;
+}
+
+.currencies__list-item:first-child {
+    margin-left: 0px;
+}
